@@ -1,4 +1,4 @@
-Training Applaudo - Week 01
+Exercicio 01 - Java
 
 Este repositorio contiene las soluciones a los ejercicios de la primera semana del programa de capacitación de Java en Applaudo.
 
@@ -6,7 +6,7 @@ El objetivo de estas tareas es practicar lo que hemos aprendido durante la seman
 
 
 
-Ejercicios de la Semana 1
+Ejercicio 01
 
 #1.Resumen de Array
 
